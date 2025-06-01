@@ -1,0 +1,27 @@
+name: "Suggest a Resource"
+description: "Propose a new project, lab, or resource for the list"
+title: "[Resource Suggestion] <Resource Name>"
+labels: ["enhancement", "resource"]
+body:
+  - type: input
+    id: resource_link
+    attributes:
+      label: Resource Link
+      description: "URL to the resource"
+      placeholder: "https://..."
+    validations:
+      required: true
+  - type: input
+    id: category
+    attributes:
+      label: Category
+      description: "Which category should this go under?"
+      placeholder: "e.g. Linux, Kubernetes, Cloud..."
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Short Description
+      description: "What is this resource about?"
+      placeholder: "A brief summary..."
