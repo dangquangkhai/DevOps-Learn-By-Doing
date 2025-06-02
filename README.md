@@ -1,5 +1,5 @@
 # 🚀 From Linux to K8s: Learn DevOps by Building
-<!-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=dth99.DevOps-Learn-By-Doing) -->
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dth99.devops-learn-by-doing)
 
 A curated, community-driven collection of **free DevOps labs, challenges, and end-to-end projects** — organized by category. Everything here is **learn by doing** ✍️ so you build real skills rather than just read theory.
 
