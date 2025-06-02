@@ -107,4 +107,6 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 * Found a great resource? [Open an issue](https://github.com/dth99/devops-learn-by-doing/issues/new) or submit a pull request!
 * See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dth99.devops-learn-by-doing)
+
 ---
