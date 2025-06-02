@@ -29,7 +29,7 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 
 ---
 
-## 🛠️ Foundational Project
+## 🛠️ Foundational Projects
 
 * [DevOps Projects – Roadmap.sh](https://roadmap.sh/devops/projects) – Go from beginner to advanced through guided DevOps projects
 * [DevOps Foundational Project](https://prepare.sh/project/devops-foundational-project) – Build and deploy a full-stack app with real-world workflows
