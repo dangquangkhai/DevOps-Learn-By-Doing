@@ -1,66 +1,111 @@
-# DevOps - Learn by Doing
+# 🚀 From Linux to Kubernetes: Learn DevOps by Building
+<!-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=dth99.DevOps-Learn-By-Doing) -->
 
-A curated collection of hands-on DevOps learning resources, project-based tutorials, and labs. Perfect for beginners and experienced engineers looking to upskill by **doing**.
+A curated, community-driven collection of **free DevOps labs, challenges, and end-to-end projects** — organized by category. Everything here is **learn by doing** ✍️ so you build real skills rather than just read theory.
 
-## 🚀 Categories
-
-- [Linux](#linux)
-- [Kubernetes](#kubernetes)
-- [Cloud](#cloud)
-- [Beginner](#beginner)
-- [A-Z](#a-z)
-- [SRC (Source/Other)](#src)
+> 🔧 **Stop reading. Start building.**
 
 ---
 
-## Linux
+## 📚 Categories
 
-- [SadServers (Like LeetCode for Linux)](https://sadservers.com/scenarios)
-- [Linux CTFs](https://github.com/learntocloud/linux-ctfs)
-- [Linux UpSkill Challenge](https://linuxupskillchallenge.org/)
-- [OverTheWire: Wargames](https://overthewire.org/wargames/)
-
-## Kubernetes
-
-- [Kubernetes the Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
-- [Kubernetes Goat (Security Playground)](https://madhuakula.com/kubernetes-goat/docs/)
-- [Labs by Iximiuz (DevOps/Server Side Challenges)](https://labs.iximiuz.com/challenges)
-
-## Cloud
-
-- [Microsoft AZ-104 Lab](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/)
-- [Cloud is Free](https://cloudisfree.com/#/projects/project-1/part-1/README)
-- [AWS Workshops](https://workshops.aws/)
-- [Azure Exercise Guide](https://mslabs.cloudguides.com/guides/AZ-104%20Exam%20Guide%20-%20Microsoft%20Azure%20Administrator%20Exercise%202)
-- [Terraform Azure Get Started](https://developer.hashicorp.com/terraform/tutorials/azure-get-started)
-- [Cloud Resume Challenge (AWS, GCP, Azure)](https://cloudresumechallenge.dev/docs/the-challenge/aws/)
-
-## Beginner
-
-- [Learn to Cloud](https://github.com/learntocloud/learn-to-cloud)
-- [KodeKloud Free Labs](https://kodekloud.com/free-labs)
-- [Prepare.sh DevOps Foundational Project](https://prepare.sh/project/devops-foundational-project)
-- [Mini Projects](https://www.notion.so/Mini-Projects-1fd563d072b98076be98c53d826af4be?pvs=21)
-
-## A-Z
-
-- [100 Days of DevOps](https://github.com/100daysofdevops/100daysofdevops)
-- [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
-- [DevOps Roadmap Projects](https://roadmap.sh/devops/projects)
-
-## SRC (Source/Other)
-
-- [Learn Git Branching](https://learngitbranching.js.org/)
-- [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
-- [Jenkins Java App Tutorial](https://www.jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
-- [SRE Bootcamp Exercises](https://one2n.io/sre-bootcamp/sre-bootcamp-exercises)
-- [Go Bootcamp](https://one2n.io/go-bootcamp)
+* 📂 [Linux](#-linux)
+* 🔧 [Foundational Projects](#️-foundational-project)
+* ☁️ [Cloud](#️-cloud)
+* ☸️ [Kubernetes](#️-kubernetes)
+* 🧩 [Challenges & CTFs](#-challenges--ctfs)
+* 🛠️ [SRE](#️-sre)
+* 🧪 [Labs](#-labs)
+* 🔐 [Security](#-security)
+* ⚙️ [CI/CD](#️-cicd)
+* 🌿 [Git](#-git)
+* 👨‍💻 [Programming](#-programming)
 
 ---
 
-## 📝 Contributing
+## 🐧 Linux
 
-- Found a great resource? [Open an issue](https://github.com/dth99/devops-learn-by-doing/issues/new) or submit a pull request!
-- See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+* [Linux Upskill Challenge](https://linuxupskillchallenge.org/) – Learn the skills required to sysadmin a remote Linux server from the command line
+* [OverTheWire](https://overthewire.org/wargames/) – Practice security concepts in the form of fun-filled games
+
+---
+
+## 🛠️ Foundational Project
+
+* [DevOps Projects – Roadmap.sh](https://roadmap.sh/devops/projects) – Go from beginner to advanced through guided DevOps projects
+* [DevOps Foundational Project](https://prepare.sh/project/devops-foundational-project) – Build and deploy a full-stack app with real-world workflows
+* [100 Days of DevOps](https://github.com/100daysofdevops/100daysofdevops) – Learn DevOps with 100 blogs in 100 days
+* [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) – A free 9-week course on productionizing ML services
+
+---
+
+## ☁️ Cloud
+
+* [Cloud is Free](https://cloudisfree.com/) – Learn to deploy real-world apps using only cloud Free Tiers
+* [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/) – Cloud learning through a resume project
+* [Learn to Cloud](https://learntocloud.guide/) – Understand the fundamentals of cloud computing
+* [AWS Workshops](https://workshops.aws/) – Practice hands-on AWS labs and projects
+
+---
+
+## ☸️ Kubernetes
+
+* [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way) – Learn to bootstrap Kubernetes manually
+* [Kubernetes Goat](https://madhuakula.com/kubernetes-goat/docs/) – A playground for Kubernetes security learning
+
+---
+
+## 🧩 Challenges & CTFs
+
+* [SadServers](https://sadservers.com/scenarios) – Like LeetCode for DevOps/Linux troubleshooting
+* [iximiuz Labs](https://labs.iximiuz.com/challenges) – Hone your DevOps skills with focused hands-on problems
+* [Linux CTFs](https://github.com/learntocloud/linux-ctfs) – Command-line based Capture The Flag challenges
+* [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials) – Learn Terraform across major cloud providers
+
+---
+
+## 🛠️ SRE
+
+* [SRE Bootcamp](https://one2n.io/sre-bootcamp/sre-bootcamp-exercises) – Learn real-world SRE through hands-on challenges and production-grade apps
+
+---
+
+## 🧪 Labs
+
+* [KodeKloud Labs](https://kodekloud.com/free-labs) – Free labs on Docker, Kubernetes, Ansible, etc.
+* [Prepare.sh Labs](https://prepare.sh/projects/devops) – Real-world DevOps labs and projects
+* [AZ-104 Microsoft Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) – Practice labs for Azure Administrator certification
+
+---
+
+## 🔐 Security
+
+* [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) – A vulnerable web app to learn about web security and OWASP Top 10
+* [OWASP Kubernetes Top 10](https://madhuakula.com/kubernetes-goat/docs/owasp-kubernetes-top-ten/) – Understand Kubernetes-specific security vulnerabilities
+
+---
+
+## ⚙️ CI/CD
+
+* [Jenkins CI/CD](https://www.jenkins.io/doc/tutorials/build-a-java-app-with-maven/) – Build a Java app using Jenkins pipelines
+
+---
+
+## 🌿 Git
+
+* [Learn Git Branching](https://learngitbranching.js.org/) – Interactive visual Git tutorial for mastering branching concepts
+
+---
+
+## 👨‍💻 Programming
+
+* [Go Bootcamp](https://one2n.io/go-bootcamp) – Learn Go through hands-on exercises and real-world scenarios
+
+---
+
+## 🤝 Contributing
+
+* Found a great resource? [Open an issue](https://github.com/dth99/devops-learn-by-doing/issues/new) or submit a pull request!
+* See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
 ---
