@@ -35,7 +35,7 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 * [DevOps Foundational Project](https://prepare.sh/project/devops-foundational-project) – Build and deploy a full-stack app with real-world workflows
 * [100 Days of DevOps](https://github.com/100daysofdevops/100daysofdevops) – Learn DevOps with 100 blogs in 100 days
 * [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) – A free 9-week course on productionizing ML services
-* [DevOps Event Driven Architecture ](https://prepare.sh/project/devops-event-driven-architecture) - Build a serverless, event-driven "like and recommend" system on AWS and Terraform.
+* [DevOps Event Driven Architecture ](https://prepare.sh/project/devops-event-driven-architecture) - Build a serverless, event-driven "like and recommend" system on AWS and Terraform
 * [HiveBox](https://devopsroadmap.io/projects/hivebox/) - End-to-End Project Devops Project
 ---
 
@@ -75,6 +75,7 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 * [KodeKloud Labs](https://kodekloud.com/free-labs) – Free labs on Docker, Kubernetes, Ansible, etc.
 * [Prepare.sh Labs](https://prepare.sh/projects/devops) – Real-world DevOps labs and projects
 * [AZ-104 Microsoft Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) – Practice labs for Azure Administrator certification
+* [DevOps Daily](https://devops-daily.com/exercises) - Master DevOps skills through hands-on practice with real-world scenarios
 
 ---
 
