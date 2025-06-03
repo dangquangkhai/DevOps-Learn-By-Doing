@@ -35,6 +35,7 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 * [DevOps Foundational Project](https://prepare.sh/project/devops-foundational-project) – Build and deploy a full-stack app with real-world workflows
 * [100 Days of DevOps](https://github.com/100daysofdevops/100daysofdevops) – Learn DevOps with 100 blogs in 100 days
 * [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) – A free 9-week course on productionizing ML services
+* [DevOps Event Driven Architecture ](https://prepare.sh/project/devops-event-driven-architecture) - Build a serverless, event-driven "like and recommend" system on AWS and Terraform.
 
 ---
 
