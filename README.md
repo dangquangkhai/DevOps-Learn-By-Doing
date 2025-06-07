@@ -108,6 +108,11 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 * Found a great resource? [Open an issue](https://github.com/dth99/devops-learn-by-doing/issues/new) or submit a pull request!
 * See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
 
+## 🙏 Sponsor This Project
+
+If you find **DevOps — Learn by Doing** helpful, please consider sponsoring to support ongoing maintenance and new features! we are planning to host it on custom domain and making a full stack website the more features.
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-❤️-brightgreen?logo=github-sponsors&style=for-the-badge)](https://github.com/sponsors/dth99)
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dth99.devops-learn-by-doing)
 
