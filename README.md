@@ -86,6 +86,12 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 
 ---
 
+## 🎮 Games
+* [ohmygit](https://ohmygit.org/) – An open source game about learning Git!
+* [DevOps Dream](https://devops.games/) – A game for modern tech leaders to improve software delivery and organisational performance, based on real industry insights.
+
+---
+
 ## ⚙️ CI/CD
 
 * [Jenkins CI/CD](https://www.jenkins.io/doc/tutorials/build-a-java-app-with-maven/) – Build a Java app using Jenkins pipelines
