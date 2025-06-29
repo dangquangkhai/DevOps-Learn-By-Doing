@@ -117,7 +117,7 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 
 ## 🙏 Sponsor This Project
 
-If you find **DevOps — Learn by Doing** helpful, please consider sponsoring to support ongoing maintenance and new features! we are planning to host it on custom domain and making a full stack website the more features.
+If you find **DevOps — Learn by Doing** helpful, please consider sponsoring to support ongoing maintenance and new features! we are planning to making a full stack website the more features and labs
 
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-❤️-brightgreen?logo=github-sponsors&style=for-the-badge)](https://github.com/sponsors/dth99)
