@@ -1,6 +1,6 @@
 # 🚀 From Linux to K8s: Learn DevOps by Building
 
-A curated, community-driven collection of **free DevOps labs, challenges, and end-to-end projects** — organized by category. Everything here is **learn by doing** ✍️ so you build real skills as you go.
+A curated, community-driven collection of **free DevOps labs, challenges, and end-to-end projects** — organized by category. Everything here is **learn by doing** ✍️ so you build real skills rather than just read theory.
 
 > 🔧 **Stop reading. Start building.**
 
@@ -35,7 +35,7 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 * [DevOps Foundational Project](https://prepare.sh/project/devops-foundational-project) – Build and deploy a full-stack app with real-world workflows
 * [100 Days of DevOps](https://github.com/100daysofdevops/100daysofdevops) – Learn DevOps with 100 blogs in 100 days
 * [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) – A free 9-week course on productionizing ML services
-* [DevOps Event Driven Architecture ](https://prepare.sh/project/devops-event-driven-architecture) - Build a serverless, event-driven "like and recommend" system on AWS and Terraform
+* [DevOps Event Driven Architecture ](https://prepare.sh/project/devops-event-driven-architecture) - Build a serverless, event-driven "like and recommend" system on AWS and Terraform.
 * [HiveBox](https://devopsroadmap.io/projects/hivebox/) - End-to-End Project Devops Project
 ---
 
@@ -76,13 +76,19 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 * [Prepare.sh Labs](https://prepare.sh/projects/devops) – Real-world DevOps labs and projects
 * [AZ-104 Microsoft Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) – Practice labs for Azure Administrator certification
 * [DevOps Daily](https://devops-daily.com/exercises) - Master DevOps skills through hands-on practice with real-world scenarios
-
+* [Labex](https://labex.io/) - Learn Linux, DevOps & Cybersecurity with Hands-on Labs
 ---
 
 ## 🔐 Security
 
 * [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/) – A vulnerable web app to learn about web security and OWASP Top 10
 * [OWASP Kubernetes Top 10](https://madhuakula.com/kubernetes-goat/docs/owasp-kubernetes-top-ten/) – Understand Kubernetes-specific security vulnerabilities
+
+---
+
+## 🎮 Games
+* [ohmygit](https://ohmygit.org/) – An open source game about learning Git!
+* [DevOps Dream](https://devops.games/) – A game for modern tech leaders to improve software delivery and organisational performance, based on real industry insights.
 
 ---
 
@@ -108,5 +114,18 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 
 * Found a great resource? [Open an issue](https://github.com/dth99/devops-learn-by-doing/issues/new) or submit a pull request!
 * See [CONTRIBUTING.md](CONTRIBUTING.md) for contribution guidelines.
+
+## 🙏 Sponsor This Project
+
+If you find **DevOps — Learn by Doing** helpful, please consider sponsoring to support ongoing maintenance and new features! we are planning to host it on custom domain and making a full stack website the more features.
+
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-❤️-brightgreen?logo=github-sponsors&style=for-the-badge)](https://github.com/sponsors/dth99)
 ---
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=dth99.devops-learn-by-doing)
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dth99/DevOps-Learn-By-Doing&type=Date)](https://www.star-history.com/#dth99/DevOps-Learn-By-Doing&Date)
