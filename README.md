@@ -76,7 +76,7 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 * [KodeKloud Labs](https://kodekloud.com/free-labs) – Free labs on Docker, Kubernetes, Ansible, etc.
 * [Prepare.sh Labs](https://prepare.sh/projects/devops) – Real-world DevOps labs and projects
 * [Labex](https://labex.io/) - Learn Linux, DevOps & Cybersecurity with Hands-on Labs
-*[Killercoda](https://killercoda.com/) - Learn DevOps Linux Kubernetes CKS CKA CKAD Git Linux Programming.
+* [Killercoda](https://killercoda.com/) - Learn DevOps Linux Kubernetes CKS CKA CKAD Git Linux Programming.
 * [AZ-104 Microsoft Labs](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/) – Practice labs for Azure Administrator certification
 * [DevOps Daily](https://devops-daily.com/exercises) - Master DevOps skills through hands-on practice with real-world scenarios
 ---
