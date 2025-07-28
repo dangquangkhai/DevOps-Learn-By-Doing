@@ -70,6 +70,7 @@ A curated, community-driven collection of **free DevOps labs, challenges, and en
 ## 🛠️ SRE
 
 - [SRE Bootcamp](https://one2n.io/sre-bootcamp/sre-bootcamp-exercises) – Learn real-world SRE through hands-on challenges and production-grade apps
+- [School of SRE](https://linkedin.github.io/school-of-sre/) - At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role
 
 ---
 
